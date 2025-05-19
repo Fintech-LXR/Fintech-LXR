@@ -1,14 +1,12 @@
 ### Preview
 
-<div align="center" style="
-  position:relative;
-  padding:20px;
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://raw.githubusercontent.com/Fintech-LXR/Fintech-LXR/main/1.jpg');
+<div align="center"
+  style="position:relative;
+         background: linear-gradient(to bottom,rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://raw.githubusercontent.com/Fintech-LXR/Fintech-LXR/main/1.jpg?t=${Date.now()}');
   background-size: cover; 
   background-position: center; 
-  padding: 40px;
-  border-radius: 10px;
-">
+  width: 100%;
+  height: 400px;">
 
 # Hi, I'm Fintech-LXR
 </div>
