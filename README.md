@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Fintech-LXR 👋  
+- 🔭 Working on Fintech projects.  
+- 🌐 My website: [Fintech-LXR.io](https://Fintech-LXR.io)  
 
 <!--
 **Fintech-LXR/Fintech-LXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
