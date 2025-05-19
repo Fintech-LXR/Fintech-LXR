@@ -1,4 +1,10 @@
+<div align="center" style="position:relative; padding:20px; background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://github.com/Fintech-LXR/Fintech-LXR/blob/main/wallhaven-9oxkwk.jpg'); background-size: cover; border-radius: 10px;">
+  
+# 🚀 Hi, I'm Fintech-LXR  
+**Welcome to My GitHub Profile!**  
+</div>
 # Hi, I'm Fintech-LXR 👋  
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
