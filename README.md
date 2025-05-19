@@ -1,18 +1,24 @@
 # Hi, I'm Fintech-LXR 👋  
-- 🔭 Working on Fintech projects.  
-- 🌐 My website: [Fintech-LXR.io](https://Fintech-LXR.io)  
+# Fintech-LXR.io
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- GitHub数据统计 -->
+## 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fintech-LXR&show_icons=true&theme=radical)
 
-<!--
-**Fintech-LXR/Fintech-LXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- 标题和简介 -->
+# Hi there 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Data+Scientist+%7C+Python+Developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 技术栈图标 -->
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
