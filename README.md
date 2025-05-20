@@ -1,9 +1,8 @@
 # Hi, I'm Fintech-LXR
-</div>
-  
+|![背景图](https://raw.githubusercontent.com/Fintech-LXR/Fintech-LXR/main/1.jpg)|
+|:-------------------------------------------------:|
+|  **Welcome to My GitHub Profile!**<br><br>  |
 # 🚀 Hi, I'm Fintech-LXR  
-**Welcome to My GitHub Profile!**  
-</div>
 # Hi, I'm Fintech-LXR 👋  
 
 📊 **this week i spent my time on:**
