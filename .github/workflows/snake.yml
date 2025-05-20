@@ -28,7 +28,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dir  # 
+          build_dir: dist  # 
           keep_files: true  # 保留目标分支的现有文件
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
