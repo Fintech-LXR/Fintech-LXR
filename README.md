@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="600" wide="1000" src="https://raw.githubusercontent.com/Fintech-LXR/Fintech-LXR/main/digital_rain.gif"  />
 </div>
 
 ###
