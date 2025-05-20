@@ -27,8 +27,8 @@ jobs:
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: main
-          build_dir: output  # 
+          target_branch: output
+          build_dir: dir  # 
           keep_files: true  # 保留目标分支的现有文件
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
