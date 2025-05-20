@@ -1,13 +1,3 @@
-### Preview
-
-<div align="center"
-  style="position:relative;
-         background: linear-gradient(to bottom,rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url('https://raw.githubusercontent.com/Fintech-LXR/Fintech-LXR/main/1.jpg');
-  background-size: cover; 
-  background-position: center; 
-  width: 3840px;
-  height: 2160px;">
-
 # Hi, I'm Fintech-LXR
 </div>
   
