@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # 每 12 小时执行一次
+    - cron: "* */12 * * *"  # 每 12 小时执行一次
   workflow_dispatch:
   push:
     branches:
@@ -24,6 +24,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: Add interactive hover effect
+        run: |
+          # 在 SVG 文件中插入 CSS 悬停样式
+          sed -i 's|<svg\([^>]*\)>|<svg\1>\n<style>rect { transition: opacity 0.3s; } rect:hover { opacity: 0.5; }</style>|' dist/snake.svg
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
